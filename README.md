@@ -18,3 +18,18 @@ The Sustainable Development Goal (SDG) 8's focus on encouraging equitable and su
 To sum up, SDG 8's goal of encouraging equitable and sustainable economic growth, productive employment, and decent labor is furthered by our project's research of the employment situation in the Philippines during the Coronavirus epidemic. Policymakers and stakeholders are helped by the knowledge acquired by looking at changes in employment rates, job losses, and industry movements as they formulate policies for economic recovery. We hope to promote a greater awareness of the potential and obstacles in generating sustainable and productive employment for everybody in the Philippines by integrating our initiative with SDG 8.
 
 ![SDG8](images/sdg8.png)
+
+#Statement of the Problem
+One of the most serious work problems since the Great Depression has been brought on by the COVID-19 pandemic. There is a genuine risk that the crisis will worsen inequality and poverty, with the effects lasting for years. Currently, nations must make every effort to prevent this job crisis from developing into a social disaster. It is crucial to make an investment in the future and in future generations by rebuilding a better and more resilient labor market.
+
+In the Philippines, COVID-19 instances initially emerged gradually. On January 30, 2020, the first verified case was recorded, and on February 2, the first fatality. On March 7, local broadcasting was declared. 217,396 confirmed cases, 157,403 recoveries, and 3,520 fatalities were recorded by August 30. The capital's metropolis of Manila had the most cases.
+
+Lockdown measures were put in place as the pandemic spread faster. The World Health Organization classified COVID-19 as a global epidemic on March 11. Beginning on March 15, Metro Manila was placed under a stringent community quarantine that forbade mass meetings, travel, and the opening of schools. The largest island region, Luzon, was placed under Enhanced Community Quarantine for a period of six months.
+
+Only one individual per family was permitted to leave the house for necessities during the Enhanced Community Quarantine. Only enterprises in vital industries were permitted to continue, while all others were required to implement work-from-home policies. Many workers' lives were disturbed by strict lockdown procedures. Various government agencies undertook financial aid programs, supported vital industries, and hoarding prevention measures between March 12 and April 15.
+
+The "Bayanihan to Heal as One Act," which gave the president emergency powers to deal with the COVID-19 situation, was signed by the president on March 24. The Enhanced Community Quarantine was extended to include all of Luzon through April 30. Additional actions were taken to assist the impacted enterprises, to put out aid proposals, and to create strategies for academic and vocational training.
+
+In April, it was announced that both the General Community Quarantine and the Enhanced Community Quarantine will be extended. Under the General Community Quarantine, a few places of business, like gyms and places of amusement, remained shut. From May 16 to May 31, Metro Manila, Laguna, and Cebu City were subject to a modified enhanced community quarantine, allowing for some movement and a gradual reopening of the economy.
+
+In Metro Manila and several provinces, the country underwent a change from Modified Enhanced Community Quarantine to General Community Quarantine, while the remainder of the nation was placed under Modified General Community Quarantine. Depending on the severity of the COVID-19 infection in each place, the length and strictness of the community quarantine varied.
