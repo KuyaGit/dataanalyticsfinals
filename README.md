@@ -19,7 +19,7 @@ To sum up, SDG 8's goal of encouraging equitable and sustainable economic growth
 
 ![SDG8](images/sdg8.png)
 
-#Statement of the Problem
+## Statement of the Problem
 One of the most serious work problems since the Great Depression has been brought on by the COVID-19 pandemic. There is a genuine risk that the crisis will worsen inequality and poverty, with the effects lasting for years. Currently, nations must make every effort to prevent this job crisis from developing into a social disaster. It is crucial to make an investment in the future and in future generations by rebuilding a better and more resilient labor market.
 
 In the Philippines, COVID-19 instances initially emerged gradually. On January 30, 2020, the first verified case was recorded, and on February 2, the first fatality. On March 7, local broadcasting was declared. 217,396 confirmed cases, 157,403 recoveries, and 3,520 fatalities were recorded by August 30. The capital's metropolis of Manila had the most cases.
