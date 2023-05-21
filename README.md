@@ -60,7 +60,7 @@ git clone https://github.com/KuyaGit/dataanalyticsfinals.git
 
 ### Create virtual environment
 
-1. Use python virtualenv library (Option 1)
+Use python virtualenv library
 
 
 Install virtualenv library
@@ -89,5 +89,6 @@ Using virtual environment allows you to avoid installing Python packages globall
 Make sure you activated your virtual environment.
 
 Command:
+```
 pip install -r requirements.txt
-
+```
