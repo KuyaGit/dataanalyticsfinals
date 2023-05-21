@@ -48,7 +48,8 @@ In order to find noteworthy trends and patterns in the data, the project's goal 
 
 
 
-### Code Instruction
+
+# Code Instruction
 ## Requirements
 
 Python installed (recommended=3.10.7). Get python [here](https://www.python.org/downloads/).
