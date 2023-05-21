@@ -1,4 +1,4 @@
-# Project Title: Employment Status of Phillipines in times of Coronavirus Pandemic
+# Project Title: Employment Status of Phillipines in year of 2012 to 2019
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)***
 ![Team Members](images/team_members.png)
 
@@ -40,3 +40,54 @@ In accordance with our methodology, data are gathered from a variety of trustwor
 ## Expected Output
 In order to find noteworthy trends and patterns in the data, the project's goal is to study the job situation in the Philippines during the difficult time of the coronavirus epidemic. The researcher can get insights and develop accurate observations without making any assumptions by doing a comprehensive investigation. If the study indicates deteriorating conditions and establishes a clear link between the variables, it may be used as a foundation for increasing awareness of and addressing the causes of the employment issues. Further study and the creation of successful strategic strategies can both benefit from the results. The government may take a page from other nations' successful strategies and modify them to address the job crisis in the midst of the pandemic. Additionally, it is essential to raise awareness, especially among the younger generation, by launching advocacy campaigns and putting in place initiatives that proactively address the detrimental consequences of the coronavirus pandemic on the labor market.
 
+
+
+
+
+
+
+
+
+### Code Instruction
+## Requirements
+
+Python installed (recommended=3.10.7). Get python [here](https://www.python.org/downloads/).
+
+## Download source code
+
+```
+git clone https://github.com/KuyaGit/dataanalyticsfinals.git
+
+### Create virtual environment
+
+1. Use python virtualenv library (Option 1)
+
+```
+Install virtualenv library
+Command:
+pip install virtualenv
+
+Go to your project directory and create virtual environment.
+Command:
+pip -m venv env
+
+Activate virtualenv:
+Command (git bash):
+source env/Scripts/activate
+
+Command (windows cmd):
+env\Scripts\activate
+```
+
+#### Why do we use virtual environment in Python?
+
+Using virtual environment allows you to avoid installing Python packages globally which could break system tools or other projects.
+
+## Install libraries
+
+```
+Make sure you activated your virtual environment.
+
+Command:
+pip install -r requirements.txt
+```
