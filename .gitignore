@@ -4,7 +4,7 @@ __pycache__/
 *.pyc
 
 instance/
-
+env/
 .python-version
 
 .vscode/
