@@ -56,9 +56,9 @@ Python installed (recommended=3.10.7). Get python [here](https://www.python.org/
 
 ## Download source code
 
-
+```
 git clone https://github.com/KuyaGit/dataanalyticsfinals.git
-
+```
 ### Create virtual environment
 
 Use python virtualenv library
@@ -66,19 +66,23 @@ Use python virtualenv library
 
 Install virtualenv library
 Command:
+```
 pip install virtualenv
-
+```
 Go to your project directory and create virtual environment.
 Command:
+```
 pip -m venv env
-
+```
 Activate virtualenv:
 Command (git bash):
+```
 source env/Scripts/activate
-
+```
 Command (windows cmd):
+```
 env\Scripts\activate
-
+```
 
 #### Why do we use virtual environment in Python?
 
