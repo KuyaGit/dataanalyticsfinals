@@ -55,14 +55,14 @@ Python installed (recommended=3.10.7). Get python [here](https://www.python.org/
 
 ## Download source code
 
-```
+
 git clone https://github.com/KuyaGit/dataanalyticsfinals.git
 
 ### Create virtual environment
 
 1. Use python virtualenv library (Option 1)
 
-```
+
 Install virtualenv library
 Command:
 pip install virtualenv
@@ -77,7 +77,7 @@ source env/Scripts/activate
 
 Command (windows cmd):
 env\Scripts\activate
-```
+
 
 #### Why do we use virtual environment in Python?
 
@@ -85,9 +85,9 @@ Using virtual environment allows you to avoid installing Python packages globall
 
 ## Install libraries
 
-```
+
 Make sure you activated your virtual environment.
 
 Command:
 pip install -r requirements.txt
-```
+
