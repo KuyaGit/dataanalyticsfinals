@@ -2,6 +2,11 @@
 ***This repository is for our requirement in BAT404 - Analytics Techniques and Tools (IT 3206)***
 ![Team Members](images/team_members.png)
 
+# Youtube Video Presentation
+## [PROJECT IN DATA ANALYTICS (IT 3203)](https://www.youtube.com/watch?v=pz6z-bKpInA)
+# Powerpoint Presentation
+## [Canva Presentation](https://www.canva.com/design/DAFj2Mg78pI/WByFBDeoyaCAqQ6Vpq0vHA/edit?utm_content=DAFj2Mg78pI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Introduction
 
 The job environment in the Philippines changed significantly between 2012 and 2019. In 2012, the annual employment rate was estimated at 93.0 percent, and the total number of employed people reached 37.6 million. It continuously increased over time, reaching a peak of 95.3% in 2016. However, there were minor variations in the following years, and the employment rate eventually settled at 94.8% in 2019. Contrary to this, the unemployment rate, which measures the proportion of the labor force that is actively looking for work but is unable to find it, was 7.0% in 2012. This rate subsequently fell, reaching a low of 4.7% in 2016. It did, however, stabilize at 5.3% in 2018 and 5.2% in 2019, showing a rather steady but nevertheless tough unemployed condition. Despite gains in employment rates, the job environment remained challenging. Informal and underemployment remained common, particularly in rural regions, making it difficult for people to find steady and respectable jobs. Youth unemployment has arisen as a major issue, with many young Filipinos finding it difficult to find acceptable career opportunities that fit their abilities and goals.
@@ -34,6 +39,11 @@ In accordance with our methodology, we have gathered data from a variety of trus
 ## Expected Output
 In order to identify significant trends and patterns in the data, the project aims to examine the employment status in the Philippines from 2012 to 2019. Through a comprehensive investigation, the researcher will gain insights and develop accurate observations without making assumptions. If the study reveals deteriorating employment conditions and establishes a clear correlation between variables, it can serve as a foundation for raising awareness and addressing the underlying causes of employment issues during this period. The findings will provide valuable insights for further research and the development of effective strategic strategies. The government can draw inspiration from successful strategies implemented by other countries and adapt them to address the job crisis during this time frame. Moreover, it is crucial to proactively raise awareness, especially among the younger generation, through advocacy campaigns and initiatives that address the adverse consequences of the employment situation in the Philippines from 2012 to 2019.
 
+### Conclusion and Analysis
+* In year 2019 NCR and Region IV-A has the same amount of employees that was employed.
+* CAR or Cordillera Administrative Region has the least employee status on Philippines
+* NCR have the highest employee in all of the regions
+
 
 ## REFERENCES
 2012 Annual Labor and Employment Status (Annual estimates for 2012) | Philippine Statistics Authority. (2013, August 6). 2012 Annual Labor and Employment Status (Annual Estimates for 2012) | Philippine Statistics Authority. https://psa.gov.ph/content/2012-annual-labor-and-employment-status-annual-estimates-2012#:~:text=The%20annual%20employment%20rate%20for,unemployment%20rate%2C%20at%207.0%20percent
@@ -51,10 +61,6 @@ Philippines - Unemployment rate 2021 | Statista. (n.d.). Statista. https://www.s
 Felipe, J., & Lanzona, L. (n.d.). Unemployment, Labor Laws, and Economic Policies in the Philippines. Unemployment, Labor Laws, and Economic Policies in the Philippines | SpringerLink. https://doi.org/10.1057/9780230627383_7
 
 
-### Conclusion and Analysis
-* In year 2019 NCR and Region IV-A has the same amount of employees that was employed.
-* CAR or Cordillera Administrative Region has the least employee status on Philippines
-* NCR have the highest employee in all of the regions
 
 
 
