@@ -36,19 +36,12 @@ In order to identify significant trends and patterns in the data, the project ai
 
 
 ## REFERENCES
-2012 Annual Labor and Employment Status (Annual estimates for 2012) | Philippine Statistics Authority. (2013, August 6). 2012 Annual Labor and Employment Status (Annual Estimates for 2012) | Philippine Statistics Authority. https://psa.gov.ph/content/2012-annual-labor-and-employment-status-annual-estimates-2012#:~:text=The%20annual%20employment%20rate%20for,unemployment%20rate%2C%20at%207.0%20percent
-
-Employment Situation in October 2016 (Final Results) | Philippine Statistics Authority. (2017, June 14). Employment Situation in October 2016 (Final Results) | Philippine Statistics Authority. https://psa.gov.ph/content/employment-situation-october-2016-final-results
-
-2018 Annual Labor and Employment Status | Philippine Statistics Authority. (2018, December 28). 2018 Annual Labor and Employment Status | Philippine Statistics Authority. https://psa.gov.ph/content/2018-annual-labor-and-employment-status
-
-Employment Situation in January 2019 | Philippine Statistics Authority. (2019, July 26). Employment Situation in January 2019 | Philippine Statistics Authority. https://psa.gov.ph/content/employment-situation-january-2019
-
-Philippines Unemployment Rate 1991-2023. (n.d.). Philippines Unemployment Rate 1991-2023 | MacroTrends. https://www.macrotrends.net/countries/PHL/philippines/unemployment-rate
-
-Philippines - Unemployment rate 2021 | Statista. (n.d.). Statista. https://www.statista.com/statistics/578722/unemployment-rate-in-philippines/
-
-Felipe, J., & Lanzona, L. (n.d.). Unemployment, Labor Laws, and Economic Policies in the Philippines. Unemployment, Labor Laws, and Economic Policies in the Philippines | SpringerLink. https://doi.org/10.1057/9780230627383_7
+ https://psa.gov.ph/content/2012-annual-labor-and-employment-status-annual-estimates-2012#:~:text=The%20annual%20employment%20rate%20for,unemployment%20rate%2C%20at%207.0%20percent
+ https://psa.gov.ph/content/employment-situation-october-2016-final-results
+ https://psa.gov.ph/content/2018-annual-labor-and-employment-status
+ https://psa.gov.ph/content/employment-situation-january-2019
+ https://www.statista.com/statistics/578722/unemployment-rate-in-philippines/
+ https://doi.org/10.1057/9780230627383_7
 
 
 ### Conclusion and Analysis
