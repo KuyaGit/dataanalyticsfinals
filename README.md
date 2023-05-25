@@ -51,7 +51,10 @@ Philippines - Unemployment rate 2021 | Statista. (n.d.). Statista. https://www.s
 Felipe, J., & Lanzona, L. (n.d.). Unemployment, Labor Laws, and Economic Policies in the Philippines. Unemployment, Labor Laws, and Economic Policies in the Philippines | SpringerLink. https://doi.org/10.1057/9780230627383_7
 
 
-
+### Conclusion and Analysis
+* In year 2019 NCR and Region IV-A has the same amount of employees that was employed.
+* CAR or Cordillera Administrative Region has the least employee status on Philippines
+* NCR have the highest employee in all of the regions
 
 
 
