@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The job environment in the Philippines changed significantly between 2012 and 2019. In 2012, the annual employment rate was estimated at 93.0 percent, and the total number of employed people reached 37.6 million. It continuously increased over time, reaching a peak of 95.3% in 2016. However, there were minor variations in the following years, and the employment rate eventually settled at 94.8% in 2019. Contrary to this, the unemployment rate, which measures the proportion of the labor force that is actively looking for work but is unable to find it, was 7.0% in 2012. This rate subsequently fell, reaching a low of 4.7% in 2016. It did, however, stabilize at 5.3% in both 2018 and 2019, showing a rather steady but nevertheless tough unemployed condition. Despite gains in employment rates, the job environment remained challenging. Informal and underemployment remained common, particularly in rural regions, making it difficult for people to find steady and respectable jobs. Youth unemployment has arisen as a major issue, with many young Filipinos finding it difficult to find acceptable career opportunities that fit their abilities and goals.
+The job environment in the Philippines changed significantly between 2012 and 2019. In 2012, the annual employment rate was estimated at 93.0 percent, and the total number of employed people reached 37.6 million. It continuously increased over time, reaching a peak of 95.3% in 2016. However, there were minor variations in the following years, and the employment rate eventually settled at 94.8% in 2019. Contrary to this, the unemployment rate, which measures the proportion of the labor force that is actively looking for work but is unable to find it, was 7.0% in 2012. This rate subsequently fell, reaching a low of 4.7% in 2016. It did, however, stabilize at 5.3% in 2018 and 5.2% in 2019, showing a rather steady but nevertheless tough unemployed condition. Despite gains in employment rates, the job environment remained challenging. Informal and underemployment remained common, particularly in rural regions, making it difficult for people to find steady and respectable jobs. Youth unemployment has arisen as a major issue, with many young Filipinos finding it difficult to find acceptable career opportunities that fit their abilities and goals.
 
 The Philippine government adopted a number of efforts and programs to address these issues, including those that promoted job creation, improved skill development, and closed the gap between employment supply and demand. With these initiatives, it was hoped to promote equitable growth, enhance labor market results, and provide the workforce—especially young people—better possibilities.The Philippines had issues including underemployment and young unemployment from 2012 to 2019, despite gains in employment rates. The government's measures showed a dedication to tackling these problems and fostering inclusive labor market growth. The country's employment prospects will need to continue to improve as more opportunities are created, gaps are closed, and workers are given the training they need.
 
@@ -18,11 +18,9 @@ The biggest issues facing the Philippines are underemployment and unemployment, 
 ## Significance of the Study
 Unemployment rate has had several noticeable effects on the Philippines over the years. Since 2014, the unemployment rate has been declining until 2019. In 2019, the unemployment rate in the Philippines was at approximately 2.24 percent and on a steady downward trend from 3.6 percent in 2014. To solve this issue, the proponents proposed a title that aims to develop an employment status of the citizens of the Philippines that will give information on how affected our Filipino workers are. The submitted data, which is presented in this proposed study, will be used as the foundation for applying potential fixes to the stated issue. This project will provide a variety of data sets exemplifying the unemployment rate in the Philippines. This research will be useful for the following purposes:
 
-The Students. For those students who will be needing data that may be found from the project. This will allow them to have a thorough understanding of the Philippines unemployment rate between 2012-2019.
-
-The Professors. For professors who will be teaching about the unemployment rate in the Philippines through the years. The information collected in the project can  be utilized in their courses.
-
 The Government. For selected government officials who will be needing data that they may use to projects related to unemployment rate.
+
+Job Seekers and Workers: Current and future job seekers can benefit from a thorough understanding of the employment landscape presented in this research. The insights and conclusions drawn can provide valuable information for individuals seeking employment opportunities and making informed career decisions.
 
 The Private and public sectors. For selected private and public sectors who will be needing data that may be used for their future projects. It can act as a general framework and foundation for figuring out which solutions should probably be given priority. 
 
@@ -37,8 +35,20 @@ In accordance with our methodology, we have gathered data from a variety of trus
 In order to identify significant trends and patterns in the data, the project aims to examine the employment status in the Philippines from 2012 to 2019. Through a comprehensive investigation, the researcher will gain insights and develop accurate observations without making assumptions. If the study reveals deteriorating employment conditions and establishes a clear correlation between variables, it can serve as a foundation for raising awareness and addressing the underlying causes of employment issues during this period. The findings will provide valuable insights for further research and the development of effective strategic strategies. The government can draw inspiration from successful strategies implemented by other countries and adapt them to address the job crisis during this time frame. Moreover, it is crucial to proactively raise awareness, especially among the younger generation, through advocacy campaigns and initiatives that address the adverse consequences of the employment situation in the Philippines from 2012 to 2019.
 
 
+## REFERENCES
+2012 Annual Labor and Employment Status (Annual estimates for 2012) | Philippine Statistics Authority. (2013, August 6). 2012 Annual Labor and Employment Status (Annual Estimates for 2012) | Philippine Statistics Authority. https://psa.gov.ph/content/2012-annual-labor-and-employment-status-annual-estimates-2012#:~:text=The%20annual%20employment%20rate%20for,unemployment%20rate%2C%20at%207.0%20percent
 
+Employment Situation in October 2016 (Final Results) | Philippine Statistics Authority. (2017, June 14). Employment Situation in October 2016 (Final Results) | Philippine Statistics Authority. https://psa.gov.ph/content/employment-situation-october-2016-final-results
 
+2018 Annual Labor and Employment Status | Philippine Statistics Authority. (2018, December 28). 2018 Annual Labor and Employment Status | Philippine Statistics Authority. https://psa.gov.ph/content/2018-annual-labor-and-employment-status
+
+Employment Situation in January 2019 | Philippine Statistics Authority. (2019, July 26). Employment Situation in January 2019 | Philippine Statistics Authority. https://psa.gov.ph/content/employment-situation-january-2019
+
+Philippines Unemployment Rate 1991-2023. (n.d.). Philippines Unemployment Rate 1991-2023 | MacroTrends. https://www.macrotrends.net/countries/PHL/philippines/unemployment-rate
+
+Philippines - Unemployment rate 2021 | Statista. (n.d.). Statista. https://www.statista.com/statistics/578722/unemployment-rate-in-philippines/
+
+Felipe, J., & Lanzona, L. (n.d.). Unemployment, Labor Laws, and Economic Policies in the Philippines. Unemployment, Labor Laws, and Economic Policies in the Philippines | SpringerLink. https://doi.org/10.1057/9780230627383_7
 
 
 
