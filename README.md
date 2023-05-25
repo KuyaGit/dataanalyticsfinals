@@ -37,6 +37,10 @@ In accordance with our methodology, we have gathered data from a variety of trus
 In order to identify significant trends and patterns in the data, the project aims to examine the employment status in the Philippines from 2012 to 2019. Through a comprehensive investigation, the researcher will gain insights and develop accurate observations without making assumptions. If the study reveals deteriorating employment conditions and establishes a clear correlation between variables, it can serve as a foundation for raising awareness and addressing the underlying causes of employment issues during this period. The findings will provide valuable insights for further research and the development of effective strategic strategies. The government can draw inspiration from successful strategies implemented by other countries and adapt them to address the job crisis during this time frame. Moreover, it is crucial to proactively raise awareness, especially among the younger generation, through advocacy campaigns and initiatives that address the adverse consequences of the employment situation in the Philippines from 2012 to 2019.
 
 
+### Conclusion and Analysis
+* In year 2019 NCR and Region IV-A has the same amount of employees that was employed.
+* CAR or Cordillera Administrative Region has the least employee status on Philippines
+* NCR have the highest employee in all of the regions
 
 
 
